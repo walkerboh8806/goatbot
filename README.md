@@ -1,6 +1,6 @@
-## Really dumb bot for cheating at the game AlphaGoat
+# Really dumb bot for cheating at the game AlphaGoat
 
-# http://alphagoat.org/goat_tower_express_2/game.html
+## http://alphagoat.org/goat_tower_express_2/game.html
 
 1. Go to the link above
 2. Run `python goat_bot.py
